@@ -1,0 +1,24 @@
+{
+  "name": "project wordChange",
+  "version": "1.0.0",
+  "description": "as per the direction we have to change the english word to french is shakespeare file using find word and that will be presend in dictionary",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaydeep-jain/exeter-coding-challenge.git"
+  },
+  "keywords": [],
+  "author": "jaydeep",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/jaydeep-jain/exeter-coding-challenge.git"
+  },
+  "homepage": "https://github.com/jaydeep-jain/exeter-coding-challenge.git",
+  "devDependencies": {},
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
